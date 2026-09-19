@@ -12,6 +12,16 @@
 
 ## 安装
 
+### 一键安装（推荐）
+
+复制下面这份提示词，发给你的 Codex / Claude Code / Cursor，它会自己把技能下载并装到正确位置：
+
+**<https://github.com/Cognifair/codex-deepseek/blob/main/install-prompt.md>**
+
+（在 GitHub 页面上点代码块右上角的复制按钮即可。）
+
+### 手动安装
+
 把仓库放进 Codex 的 skills 目录，然后重启 Codex 即可被识别。
 
 Windows（PowerShell）：
