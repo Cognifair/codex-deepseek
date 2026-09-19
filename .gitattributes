@@ -1,0 +1,2 @@
+# Keep line endings stable across platforms (scripts are Python / Markdown / JSON)
+* text=auto eol=lf
